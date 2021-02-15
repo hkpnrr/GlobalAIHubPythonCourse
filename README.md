@@ -1,4 +1,4 @@
-# GAIH Student Repo Exampl
+# GAIH Student Repo Example
 ![](img/logo.png)
 
 **Course Date:** DD.MM.YYYY  
